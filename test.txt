@@ -1,3 +1,4 @@
 a
 b
 test merge on github
+test merge on test/merge
